@@ -1,5 +1,7 @@
 # AI From First Principles
 
+[Slides](https://creetz.com/ai-from-first-principles/s1.----------)
+
 - Step 1: Completion
 - Step 2: Structured Output
 - Step 3: Tool Call
